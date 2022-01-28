@@ -8,7 +8,7 @@ I'm Alex, a recent [Makers](https://www.makers.tech) graduate and full-stack dev
 * 🚀 I'm interested in spacetech
 * 😄 When I'm not coding I'm reading or gaming
 
-[View my Github CV](https://github.com/alexboyling/CV)
+View my: [Github CV](https://github.com/alexboyling/CV) | [LinkedIn](https://www.linkedin.com/in/alexboyling)
 
 ## Recent Projects
 | Project | Description | Stack |
